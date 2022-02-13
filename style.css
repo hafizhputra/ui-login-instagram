@@ -7,6 +7,11 @@
   }
 
 
+.tabellogin{
+  border: 1px solid rgb(196, 196, 196);
+} 
+
+
 .login h1{
 
   font-family:"Billabong",arial;
@@ -64,7 +69,7 @@
 }
 
 .dontaccount {
-
+  border: 1px solid rgb(196, 196, 196);
 }
 .dontaccount p {
   font-family: arial;
